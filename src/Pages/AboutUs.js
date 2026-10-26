@@ -78,7 +78,7 @@ function AboutUs() {
           undoubtable source.
         </p>
 
-        <a href="" className="callNow">Call Now</a>
+        <a className="callNow">Call Now</a>
       </div>
       <Footer />
     </>

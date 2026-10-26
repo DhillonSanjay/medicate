@@ -8,7 +8,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import "../Styles/Navbar.css";
 import { Link } from "react-router-dom";
-import { toast } from "react-toastify";
+/* import { toast } from "react-toastify"; */
 
 function Navbar() {
   const [nav, setNav] = useState(false);
