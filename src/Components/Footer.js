@@ -68,18 +68,18 @@ function Footer() {
           <p className="ft-list-title">Talk To Us</p>
           <ul className="ft-list-items">
             <li>
-              <a >support@medicate.com</a>
+              <button >support@medicate.com</button>
             </li>
             <li>
-              <a >
+              <button >
                 appointment@medicate.com
-              </a>
+              </button>
             </li>
             <li>
-              <a >+022 5454 5252</a>
+              <button >+022 5454 5252</button>
             </li>
             <li>
-              <a>+022 2326 6232</a>
+              <button>+022 2326 6232</button>
             </li>
           </ul>
         </div>
