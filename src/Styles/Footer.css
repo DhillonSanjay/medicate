@@ -144,6 +144,12 @@
     fill: #1A8EFD;
     border: 2px solid #1A8EFD;
 }
+.ft-list-items li button{
+background-color: transparent;
+color: #fff;
+border:0;
+cursor: pointer;
+}
 /* Responsive */
 @media screen and (max-width: 700px) {
     .footer-container {
